@@ -1,0 +1,6 @@
+#test.txt 를 제외
+test.txt
+#vscode 폴더내의 모든파일 제외
+.vscode/
+#.txt란 확장자 모두 제외
+*.txt
